@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-#PLAYLIST:2025-10-13
+#PLAYLIST:2025-10-14
 
 #EXTINF:-1 tvg-id="10.1_tuner1" tvg-name="Local Channel Guide v10.1 (Tuner 1)",Local Channel Guide v10.1 (Tuner 1)
 #EXTVLCOPT:http-referer=http://128.230.54.128:5004/tuner1/
